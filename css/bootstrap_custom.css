@@ -262,9 +262,8 @@ padding-bottom: 1em;
 }
 
 .col-lg-5.illustration {
-    background-color: rgb(51, 51, 54);
-    height: 300px;
-    width: 100%;
+    background-image: url("../img/jpg/ux.jpg");
+    background-size: 100% auto;
 }
 
 .approche {
