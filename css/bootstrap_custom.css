@@ -316,6 +316,10 @@ figcaption{
     color: white;
 }
 
+.col.competence{
+    padding-bottom: 1em;
+}
+
 .competence {
     text-align: center;
     margin: 5px 1px;
