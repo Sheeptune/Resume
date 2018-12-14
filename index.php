@@ -500,15 +500,15 @@
 
                 <div class="hobbies">
                   <div class="row justify-content-center">
-                    <div class="col mitgliederliste" id="lindy">
-                    <figure class="einzel"><img alt="Lindyhop & Charleston" src="img/jpg/swingcaen.jpg" style="width: 100%;">
+                    <div class="col-lg-5 col-sm-12" id="lindy">
+                    <figure class="einzel"><img alt="Lindyhop & Charleston" src="img/jpg/swingcaen.jpg">
                       <figcaption>Danses sociales (Lindyhop & Charleston)<br>
                       <span>2 ans : cours, stage et bals</span></figcaption>
                     </figure>   
                     </div>   
 
-                    <div class="col mitgliederliste" id="painting">
-                      <figure class="einzel"><img alt="Peinture" src="img/jpg/dessin.jpg" style="width: 100%;">
+                    <div class="col-lg-5 col-sm-12" id="painting">
+                      <figure class="einzel"><img alt="Peinture" src="img/jpg/dessin.jpg">
                         <figcaption>Peinture et dessin<br>
                         <span>Portraits à l'acrylique - grandes toiles</span></figcaption>
                       </figure>   

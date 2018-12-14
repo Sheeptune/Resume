@@ -371,11 +371,6 @@ h2.competences{
       max-width: 200px;
     }
 
-    img {
-      max-width: 200px;
-      max-height: 200px;
-    }
-
     .overlay-container {
       display: block;
       position: relative;
@@ -474,12 +469,6 @@ h2.competences{
     text-align: center;
   }
   
-  .mitgliederliste {
-    margin: 0 auto;
-    text-align: center;
-    width: 100%;
-  }
-  
   figure {
 
     padding: 0;
@@ -494,6 +483,7 @@ h2.competences{
     display: block;
     height: auto;
     max-width: 100%;
+    width: 100%;
   }
   
   
