@@ -49,7 +49,7 @@
           <li class="nav-item">                
             <a class="m-1" href="https://www.linkedin.com/in/gwenaellelohard/"><i class="fab fa-linkedin-in"></i></a>
             <a class="m-1" href="https://github.com/Sheeptune/Bacalao"><i class="fab fa-github"></i></a>
-            <a class="m-1" src="img/cv-uxdesigner-productmanager.pdf"><i class="fas fa-file-pdf"></i></a>
+            <a class="m-1" href="img/cv-uxdesigner-productmanager.pdf"><i class="fas fa-file-pdf"></i></a>
             <a class="m-1" href="#splitcontact"><i class="fas fa-envelope"></i></a>
           </li>
         </ul>                
