@@ -195,13 +195,13 @@
 
               <div class="img-grid">
                 <figure class="einzel">
-                  <img alt="Peinture" src="img/jpg/NHL_PERSPECTIVE01.jpg" style="width: 100%;">
+                  <img alt="Peinture" src="img/jpg/EkUW3Ad.jpeg" style="width: 100%;">
                     <figcaption>Nouvel Hôpital de Lens (En cours)<br>
                     <span>Site vitrine d'un projet de construction</span>
                   </figcaption>
                 </figure>  
                 <figure class="einzel">
-                  <img alt="Peinture" src="img/jpg/ian-dooley-280928-unsplash.jpg" style="width: 100%;">
+                  <img alt="Peinture" src="img/jpg/ldLLoFf.jpeg" style="width: 100%;">
                     <figcaption>Odyssée de la Culture<br>
                     <span>Site vitrine d'une association</span>
                   </figcaption>
