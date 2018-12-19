@@ -68,8 +68,8 @@
     <section class="container-fluid page-section" id="intro">
       <h1 class="text-center sheep">SHEEP</h1>
       <h1 class="text-center tune">TUNE</h1>
-      <h6 class="text-center poste" >UX DESIGNER / PRODUCT MANAGER </h6>
-      <h6 class="text-center poste">(Opérationnelle Dev Front)</h6>
+      <h6 class="text-center poste" >UX DESIGNER</h6>
+      <h6 class="text-center poste">DEVELOPPEUR FRONT-END</h6>
       <p class="text-center scolling">Start scrolling</p>
       <div class="text-center"><img src="img/gif/Mouse-thin-rounded-button-outline.svg.png" width="80px" height="80px" alt=""></div>
     </section>
